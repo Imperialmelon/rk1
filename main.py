@@ -4,7 +4,7 @@ from operator import itemgetter
 class Lang:
     def __init__(self, id, name, cr_year, instr_id):
         self.id = id
-        self.name = namegit 
+        self.name = name
         self.cr_year = cr_year
         self.instr_id = instr_id
 
